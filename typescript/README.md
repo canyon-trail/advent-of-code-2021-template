@@ -15,7 +15,7 @@ npm install
 This project template has two files, `example.ts` and `example.test.ts`. The `example.ts` file has a simple function in it that adds two numbers. You can see it in action by using the command `npm start -- example.ts`:
 
 ```
-> npm run -- example.ts
+> npm start -- example.ts
 2 + 2 = 4
 ```
 
